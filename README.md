@@ -1,0 +1,2 @@
+# emotion-onomatopoeia-dictionary
+オンライン学習プラットフォームRecursionのProjectです。
