@@ -3,4 +3,4 @@
 感情のカテゴリを表示し、カテゴリをクリックすると、その感情の擬音カードのセクションにジャンプするアプリケーションです。
 
 ## Github Pages
-url
+https://ten66.github.io/emotion-onomatopoeia-dictionary/
